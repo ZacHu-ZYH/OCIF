@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Aug 23 14:10:48 2021
-
-@author: admin
-"""
-
 import os
 import numpy
 import keras
